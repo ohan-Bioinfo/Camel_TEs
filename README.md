@@ -1,7 +1,5 @@
 # Camel_TEs
 
-![Uploading image.png…]()
-
 Class1 ( Go find matt)
 https://github.com/mcsimenc/PhyLTR
 
